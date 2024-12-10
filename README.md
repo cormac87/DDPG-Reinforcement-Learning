@@ -8,9 +8,9 @@ I learned about reinforcement learning through watching David Silver's UCL lectu
 
 Also I learned how exactly to implement the DDPG and PPO algorithms from reading their technical papers
 
-Developed the training Algorithm and Model's using PyTorch and Python
+Developed the training Algorithm and Models using PyTorch and Python
 
-Trained the model using Google Colab cloud GPU's
+Trained the model using Google Colab cloud GPUs
 
 My custom training algorithm also solved Pendulum, Mountain Car and Cartpole
 
